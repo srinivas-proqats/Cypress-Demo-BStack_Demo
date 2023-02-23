@@ -15,6 +15,7 @@ describe("Market form", function () {
         cy.fixture('MarketFormData').then(function(data){
 
             const resourse = new MarketoForm()
+            
 
             resourse.firstName(this.data.fName)
             resourse.lastName(this.data.lName)
