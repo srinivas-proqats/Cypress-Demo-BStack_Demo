@@ -10,7 +10,7 @@
   "keywords": [],
   "description": "",
   "dependencies": {
-    "cypress": "^10.0.3"
+    "cypress": "^10.11.0"
   },
   "devDependencies": {
     "cypress-xpath": "^1.6.2"
